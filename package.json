@@ -1,0 +1,11 @@
+{
+    "name": "com.dennishawran.simpleaudiomanager",
+    "version": "1.0.0",
+    "displayName": "Simple Audio Manager",
+    "description": "A simple audio manager for Unity",
+    "author": {
+        "name": "Dennis Hawran",
+        "email": "dennishawran@gmail.com",
+        "url": "https://atmogd.itch.io/"
+    }
+}
